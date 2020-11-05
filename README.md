@@ -4,7 +4,7 @@
 I am a tech enthusiast with a flair for exploring new technologies. I strongly recognize that efficient communication between team members is the holy grail of true team success. highly motivated team player with analytical, critical thinking and problem solving skills, I am always looking for opportunities to gain relevant experience by handling challenging roles within diverse teams to contribute immense strategic value 👋
 
 <!--
-**wastech/wastech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wastech/wastech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -16,4 +16,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+- 👯 I’m looking to collaborate on more open source projects.
+- 💬 Ask me about Software Development.
+- 📫 How to reach me: 
+  * [Twitter](https://twitter.com/olanetsoft "My Twitter")
+  * [LinkedIn](https://www.linkedin.com/in/olubisi-idris-ayinde-05727b17a/ "My LinkedIn")
+  * [Portfolio/Blog](https://idrisolubisi.com "My portfolio")
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I love vacation.
+<!--
