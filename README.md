@@ -1,4 +1,7 @@
-### I am a tech enthusiast with a flair for exploring new technologies. I strongly recognize that efficient communication between team members is the holy grail of true team success. highly motivated team player with analytical, critical thinking and problem solving skills, I am always looking for opportunities to gain relevant experience by handling challenging roles within diverse teams to contribute immense strategic value 👋
+<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>IDRIS</B></h3>
+<hr>
+
+I am a tech enthusiast with a flair for exploring new technologies. I strongly recognize that efficient communication between team members is the holy grail of true team success. highly motivated team player with analytical, critical thinking and problem solving skills, I am always looking for opportunities to gain relevant experience by handling challenging roles within diverse teams to contribute immense strategic value 👋
 
 <!--
 **wastech/wastech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
