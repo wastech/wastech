@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aremu</h1>
-<h3 align="center">I am a tech enthusiast with a flair for exploring new technologies. I strongly recognize that efficient communication between team members is the holy grail of true team success. highly motivated team player with analytical, critical thinking and problem solving skills, I am always looking for opportunities to gain relevant experience by handling challenging roles within diverse teams to contribute immense strategic value wave</h3>
+<h3 align="center">I am a tech enthusiast with a flair for exploring new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wastech&label=Profile%20views&color=0e75b6&style=flat" alt="wastech" /> </p>
 
