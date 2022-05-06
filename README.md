@@ -11,11 +11,8 @@
 
 - 🌱 I’m currently learning **ExpressJs, VueJS, React, NodeJs, MongoDB, ReactNAtive, Flutter, JavaScript**
 
-- 👯 I’m looking to collaborate on **vuejs, nodejs, Javavscript, Dart etc**
+- 👯 I’m looking to collaborate on **vuejs, nodejs, Javavscript, ExpressJs etc**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-wastech.vercel.app/](https://portfolio-wastech.vercel.app/)
-
-- 📝 I regularly write articles on [https://portfolio-wastech.vercel.app/](https://portfolio-wastech.vercel.app/)
 
 - 💬 Ask me about **Vue, Express, JavaScript, ExpressJS, Nodejs, React**
 
