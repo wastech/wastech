@@ -18,7 +18,6 @@
 
 - 📫 How to reach me **fataiwasiu2@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-wastech.vercel.app/](https://portfolio-wastech.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
