@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/wastech_a" target="blank"><img src="https://img.shields.io/twitter/follow/wastech_a?logo=twitter&style=for-the-badge" alt="wastech_a" /></a> </p>
 
-- 🔭 I’m currently working on **My Startup**
+- 🔭 I’m currently working on "Something Cool"
 
 - 🌱 I’m currently learning **ExpressJs, VueJS, React, NodeJs, MongoDB, ReactNAtive, Flutter, JavaScript**
 
