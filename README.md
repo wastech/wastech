@@ -9,12 +9,12 @@
 
 - 🔭 I’m currently working on "Something Cool"
 
-- 🌱 I’m currently learning **ExpressJs, VueJS, React, NodeJs, MongoDB, ReactNAtive, Flutter, JavaScript**
+- 🌱 I’m currently learning **ExpressJs, VueJS, React, NodeJs, MongoDB,laravel, JavaScript**
 
 - 👯 I’m looking to collaborate on **vuejs, nodejs, Javavscript, ExpressJs etc**
 
 
-- 💬 Ask me about **Vue, Express, JavaScript, ExpressJS, Nodejs, React**
+- 💬 Ask me about **Vue, Express, JavaScript, ExpressJS, Nodejs**
 
 - 📫 How to reach me **fataiwasiu2@gmail.com**
 
