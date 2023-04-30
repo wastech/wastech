@@ -11,10 +11,10 @@
 
 - 🌱 I’m currently learning **cloud engineering **
 
-- 👯 I’m looking to collaborate on **vuejs, nodejs, Typescript, Javavscript,Nestjs ExpressJs etc**
+- 👯 I’m looking to collaborate on **vueJs, nodejs, Typescript, Javavscript,Nestjs ExpressJs etc**
 
 
-- 💬 Ask me about **Vue, Nestjs, Express, JavaScript, ExpressJS,Typescript, Nodejs**
+- 💬 Ask me about **VueJs, Nestjs, Express, JavaScript, ExpressJS,Typescript, Nodejs**
 
 - 📫 How to reach me **fataiwasiu2@gmail.com**
 
