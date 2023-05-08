@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **cloud engineering **
 
-- 👯 I’m looking to collaborate on **vueJs, nodeJs, Typescript, Javavscript,NestJs ExpressJs etc**
+- 👯 I’m looking to collaborate on **vueJs, NodeJs, Typescript, Javavscript,NestJs ExpressJs etc**
 
 
 - 💬 Ask me about **VueJs, NestJs, Express, JavaScript, ExpressJS,Typescript, NodeJs**
