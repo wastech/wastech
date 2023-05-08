@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aremu</h1>
+<h1 align="center">Hi 👋, I'm Wastech</h1>
 <h6 align="center">As a highly skilled Backend Developer with a BSc in Computer Science and experience in Javascript,Typescript, Node.js, Nest.js, Express.js, and Vue.js technologies, I have a proven track record of delivering robust, scalable, and high-performance web applications. My technical expertise, coupled with my academic background, has enabled me to approach software development with a strong understanding of computer science principles and the ability to solve complex problems efficiently.
 
 With over 3 Years of experience in software development, I have developed a deep understanding of backend technologies and a strong passion for writing clean, maintainable, and efficient code. I am comfortable working with Agile methodologies and thrive in a collaborative team environment.
