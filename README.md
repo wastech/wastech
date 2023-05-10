@@ -24,7 +24,7 @@ If you're looking for a Backend Developer with a strong academic background and 
 
 - 🌱 I’m currently learning **cloud engineering **
 
-- 👯 I’m looking to collaborate on **vueJs, NodeJs, Typescript, Javavscript,NestJs ExpressJs etc**
+- 👯 I’m looking to collaborate on **VueJs, NodeJs, Typescript, Javavscript,NestJs ExpressJs etc**
 
 
 - 💬 Ask me about **VueJs, NestJs, Express, JavaScript, ExpressJS,Typescript, NodeJs**
