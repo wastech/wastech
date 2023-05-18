@@ -27,7 +27,7 @@ If you're looking for a Backend Developer with a strong academic background and 
 - 👯 I’m looking to collaborate on **VueJs, NodeJs, Typescript, JavaScript,NestJs ExpressJs etc**
 
 
-- 💬 Ask me about **VueJs, NestJs, Express, JavaScript, ExpressJS,Typescript, NodeJs**
+- 💬 Ask me about **VueJs, NestJs, ExpressJs, JavaScript, ExpressJS,Typescript, NodeJs**
 
 - 📫 How to reach me **fataiwasiu2@gmail.com**
 
