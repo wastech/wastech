@@ -24,10 +24,10 @@ If you're looking for a Backend Developer with a strong academic background and 
 
 - 🌱 I’m currently learning **cloud engineering **
 
-- 👯 I’m looking to collaborate on **VueJs, NodeJs, Typescript, JavaScript,NestJs ExpressJs etc**
+- 👯 I’m looking to collaborate on **Vue.Js, Node.Js, Typescript, JavaScript,Nest.Js Express.Js etc**
 
 
-- 💬 Ask me about **VueJs, NestJs, ExpressJs, JavaScript, ExpressJS,Typescript, NodeJs**
+- 💬 Ask me about **Vue.Js, Nest.Js, Express.Js, JavaScript, ExpressJS,Typescript, NodeJs**
 
 - 📫 How to reach me **fataiwasiu2@gmail.com**
 
