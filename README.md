@@ -1,18 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wastech</h1>
-<h6 align="center">As a highly skilled Backend Developer with a BSc in Computer Science and experience in Javascript,Typescript, Node.js, Nest.js, Express.js, and Vue.js technologies, I have a proven track record of delivering robust, scalable, and high-performance web applications. My technical expertise, coupled with my academic background, has enabled me to approach software development with a strong understanding of computer science principles and the ability to solve complex problems efficiently.
-
-With over 3 Years of experience in software development, I have developed a deep understanding of backend technologies and a strong passion for writing clean, maintainable, and efficient code. I am comfortable working with Agile methodologies and thrive in a collaborative team environment.
-
-My technical skills include:
-
-Expertise in Typescript, Node.js, Nest.js, Express.js, and Vue.js technologies
-Proficiency in designing and implementing RESTful APIs
-Experience in database management and integration with multiple databases
-Strong knowledge of software development principles and design patterns
-Familiarity with Agile methodologies and version control tools
-In addition to my technical skills, I have strong communication and interpersonal skills, which allow me to work effectively with cross-functional teams. I am always eager to learn new technologies and stay up-to-date with the latest industry trends.
-
-If you're looking for a Backend Developer with a strong academic background and expertise in cutting-edge technologies, I would be excited to discuss how my experience and skills could contribute to your organization.</h6>
+<h6 align="center">Expert backend developer and certified computing scientist creating cutting-edge solutions with flawless efficiency and unmatched robustness. Hire me for success</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wastech&label=Profile%20views&color=0e75b6&style=flat" alt="wastech" /> </p>
 
