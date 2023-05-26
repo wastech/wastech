@@ -13,10 +13,10 @@
 
 - 🌱 I’m currently learning **cloud engineering **
 
-- 👯 I’m looking to collaborate on **Vue.Js, Node.Js, Typescript, JavaScript,Nest.Js Express.Js etc**
+- 👯 I’m looking to collaborate on **Vue.js, Node.js, Typescript, JavaScript,Nest.js,GraphQL, Express.js etc**
 
 
-- 💬 Ask me about **Vue.Js, Nest.Js, Express.Js, JavaScript, ExpressJS,Typescript, NodeJs**
+- 💬 Ask me about **Vue.js, Nest.js, Express.js, JavaScript , ExpressjS,TypeScript, Node.js**
 
 - 📫 How to reach me **fataiwasiu2@gmail.com**
 
