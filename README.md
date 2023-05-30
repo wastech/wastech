@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on **Vue.js, Node.js, TypeScript, JavaScript,Nest.js,GraphQL, Express.js etc**
 
 
-- 💬 Ask me about **Vue.js, Nest.js, Express.js, JavaScript , ExpressjS,TypeScript, Node.js**
+- 💬 Ask me about **Vue.js, Nest.js, Express.js, JavaScript , Express.jS,TypeScript, Node.js**
 
 - 📫 How to reach me **fataiwasiu2@gmail.com**
 
