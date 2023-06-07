@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on "Something Cool"
 
-- 🌱 I’m currently learning **cloud engineering**
+- 🌱 I’m currently learning **Cloud Engineering**
 
 - 👯 I’m looking to collaborate on **Vue.js, Node.js, TypeScript, JavaScript, Nest.js, GraphQL, Express.js etc**
 
