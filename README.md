@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wastech </h1>
 
-##### <div align="center"> Expert backend developer and certified computing scientist creating cutting-edge solutions with flawless efficiency and unmatched robustness. Hire me for success .</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wastech&label=Profile%20views&color=0e75b6&style=flat" alt="wastech" /> </p>
