@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Vue.js, Nest.js, Express.js, JavaScript, Express.js, TypeScript, GraphQL, Node.js**
 
-- 📫 How to reach me **fataiwasiu2@gmail.com**
+- 📫 How to reach me **fataiwasiu2@gmail.com** .
 
 
 <h3 align="left"> Connect with me:</h3>
