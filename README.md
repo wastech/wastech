@@ -2,7 +2,6 @@
 
 ##### <div align="center"> Expert backend developer and certified computing scientist creating cutting-edge solutions with flawless efficiency and unmatched robustness. Hire me for success .</div>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wastech&label=Profile%20views&color=0e75b6&style=flat" alt="wastech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wastech" alt="wastech" /></a> </p>
@@ -15,11 +14,9 @@
 
 - 👯 I’m looking to collaborate on **Vue.js, Node.js, TypeScript, JavaScript, Nest.js, GraphQL, Express.js etc**
 
-
 - 💬 Ask me about **Vue.js, Nest.js, Express.js, JavaScript, Express.js, TypeScript, GraphQL, Node.js**
 
 - 📫 How to reach me **fataiwasiu2@gmail.com** .
-
 
 <h3 align="left"> Connect with me:</h3>
 <p align="left">
