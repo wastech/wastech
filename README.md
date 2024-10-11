@@ -28,5 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wastech&show_icons=true&locale=en&layout=compact" alt="wastech" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wastech&show_icons=true&locale=en" alt="wastech" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wastech&" alt="wastech" /></p>
