@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on "Something Cool"
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and SpringBoot**
 
 - 👯 I’m looking to collaborate on **Vue.js,React,Nuxt,Next, Node.js, TypeScript, JavaScript, Nest.js, GraphQL, Express.js , Spring Boot etc**
 
