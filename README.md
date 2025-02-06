@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Java and SpringBoot**
 
-- 👯 I’m looking to collaborate on **Vue.js,React,Nuxt,Next, Node.js, TypeScript, JavaScript, Nest.js, GraphQL, Express.js , Spring Boot etc**
+- 👯 I’m looking to collaborate on **Vue.js,React,Nuxt,Next, Node.js, TypeScript, JavaScript, Nest.js, GraphQL, Express.js , Java, Spring Boot etc**
 
-- 💬 Ask me about **Vue.js, Nest.js, Express.js, JavaScript, Express.js, TypeScript, GraphQL, Node.js**
+- 💬 Ask me about **Vue.js, Nest.js, Express.js, JavaScript, Express.js, TypeScript, Java, GraphQL, Node.js**
 
 - 📫 How to reach me **fataiwasiu2@gmail.com** .
 
