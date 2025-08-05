@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Vue.js, React, Nuxt,Next, Node.js, TypeScript, JavaScript, Nest.js, GraphQL, Express.js , Java, Spring Boot etc**
 
-- 💬 Ask me about **Vue.js, Nest.js, Express.js, JavaScript, Express.js, TypeScript, Java, GraphQL, Node.js**
+- 💬 Ask me about **Vue.js, Nest.js, Express.js, JavaScript, Express.js, TypeScript, Java, GraphQL, Node.js,Spring Boot**
 
 - 📫 How to reach me **fataiwasiu2@gmail.com** .
 
